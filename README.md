@@ -1,3 +1,5 @@
+forked from https://github.com/im-razvan/CS2_TriggerBot
+
 # CS2_TriggerBot
 
 Simple CS2 TriggerBot W/O Memory Writing
@@ -10,6 +12,4 @@ Simply perform a `pip install -r requirements.txt` and proceed to run the Python
 
 ---
 
-- UnknownCheats Release: [Here](https://www.unknowncheats.me/forum/counter-strike-2-releases/608773-cs2-triggerbot-python.html)
-
-Developed with Python 3.11
+Developed with Python 3.12
